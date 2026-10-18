@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "kvnsdevutilities",
+    "name": "KvnsDevUtilities",
+    "authors": [
+        "Kvn"
+    ],
+    "description": "Adds commands to the game to make manually testing mods a bit easier",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.22.7"
+    }
+}
